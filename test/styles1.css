@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+#one{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    top: 200px;   
+    left: 200px;
+}
+#two{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color:yellow ;
+
+}
+#three{
+    width: 200px;
+    height: 200px;
+    background-color:red ;
+    position: relative;
+    top: 400px;
+    left: 400px;
+}

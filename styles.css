@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.describe{
+    margin:70px auto 70px auto;
+    width: 30%;
+    line-height: 2;
+}
+.top-container{
+    position:relative;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    background-color: #DEF5E5;
+}
+.bottom-container{
+    padding-top: 30px;
+    margin-top: 60px;
+    height: 110px;
+    }
+p{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 562.5%;
+    margin: 50px auto 0 auto;
+    font-family: 'Kalam', cursive;
+    color: #8EC3B0;
+    /* line-height: 2; */
+}
+h2{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    font-size: 2.5rem;
+    color: #8EC3B0;
+    font-weight: normal;
+}
+h3{
+    color: #8EC3B0;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 400px
+}
+.top-cloud
+{
+    position: absolute;
+    right: 400px;
+    top: 105px;
+}
+span{
+    text-decoration: underline;
+}
+.ja{
+    width: 30%;
+    border-radius: 100%;
+    margin-bottom: 50px;
+}
+.pc{
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 0 0 100% 100%;
+}
+.dices{
+    width: 50%;
+    float: right;
+    margin-right: 30px;
+}
+.bottom-container
+{
+
+    background-color: #8EC3B0;
+}
+.skill-row
+{
+    margin:100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.text1
+{
+    clear: left;
+}
+.text2
+{
+    clear: right;
+    clear: both;
+}
+hr{
+    
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 8%;
+    color:grey;
+    margin-top:120px;
+    margin-bottom:120px;
+    display:inline-block;
+}
+.footer-link{
+    padding: 30px 30px 30px 30px;
+    font-family: 'Roboto Slab', serif;
+    color:#BCEAD5;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.stop{
+    margin-top:30px;
+    color: white;
+}
+.btn {
+    background: #d3ebda;
+    background-image: -webkit-linear-gradient(top, #d3ebda, #65ba9b);
+    background-image: -moz-linear-gradient(top, #d3ebda, #65ba9b);
+    background-image: -ms-linear-gradient(top, #d3ebda, #65ba9b);
+    background-image: -o-linear-gradient(top, #d3ebda, #65ba9b);
+    background-image: linear-gradient(to bottom, #d3ebda, #65ba9b);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration:dotted;
+  }
+  
+  .btn:hover {
+    background: #a5e8b8;
+    text-decoration: none;
+  }
+  .git{
+    margin: auto;
+    margin-bottom: 50px;
+    width: 25%;
+  }
+  a:hover{
+    color: white;
+  }
+  
